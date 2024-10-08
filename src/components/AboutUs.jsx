@@ -19,18 +19,15 @@ function AboutUs() {
               data-aos="zoom-in-left"
               data-aos-duration="1500"
             >
-              Gold Neiro is a sleek and savvy white Doge on the Solana
-              blockchain, embodying the perfect blend of coolness and
-              intelligence. With its eyes set on a 1000x profit, this Doge is
-              more than just a meme—it's a force of nature, zooming ahead at
-              full speed. 
+              Yo, yo! Thug boss Gold Neiro in the house! What’s his Solana
+              kingpin mission? Make everyone a millionaire and pump Solana 1000x
+              like it's nothing! Dripping in gold chains, 
             </p>
 
             <p className=" text-lg font-dream text-black">
-            Gold Neiro is all about making smart moves and leaving
-              the competition in the dust, all while cruising in style in a
-              Lambo. This meme coin is destined to outpace everyone, marking its
-              territory as the ultimate trailblazer in the crypto world.
+            flexing that
+              mega-bullish brain, Neiro’s all about crazy gains. No leash, just
+              pumpin' and stacking cash, thug style! 💪🐾 Woof, woof!
             </p>
           </div>
           <div

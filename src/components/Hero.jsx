@@ -21,7 +21,7 @@ function Hero() {
 
               <p className=" text-black text-2xl py-2"   data-aos="zoom-in-up"
           data-aos-duration="1500">
-             Gold Neiro: The coolest white Doge on Solana, racing to a 1000x profit in a Lambo—smart, fast, and primed for big gains!
+            Gold Neiro: The Thug Boss of Solana, Pumping 1000x Gains, No Leash, Just Riches!
               </p>
               <div
                 data-aos="zoom-in-up"
@@ -88,7 +88,7 @@ function Hero() {
               data-aos-duration="1500"
             >
               <div className=" flex flex-row-reverse justify-start w-full max-w-[300px] gap-4  py-4">
-                <a href="https://www.dextools.io/app/en/solana/pair-explorer/CZPWAmWqZRrHTYBsgJoa7XiVbZgyHdGw8XZfCUKiokSV?t=1723474275110" className=" mx-auto " target="_blank" rel="noreferrer">
+                <a href="https://www.dextools.io/app/en" className=" mx-auto " target="_blank" rel="noreferrer">
                   {" "}
                   <img
                     src="/images/dex.svg"
@@ -102,7 +102,7 @@ function Hero() {
            
 
                 <a
-                  href="https://t.me/KishuDoge" target="_blank" rel="noreferrer"
+                  href="https://t.me/" target="_blank" rel="noreferrer"
                   className=" mx-auto bg-[#ffffff] p-4 rounded-full "
                 >
                   {" "}
@@ -111,7 +111,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="https://x.com/KishuDoge_Sol" target="_blank" rel="noreferrer"
+                  href="https://x.com/" target="_blank" rel="noreferrer"
                   className=" mx-auto bg-[#ffffff] p-4 rounded-full "
                 >
                   {" "}
@@ -122,7 +122,7 @@ function Hero() {
           </div>
           <div className=" w-full sm:w-1/2">
             <img
-              src="images/hero4.png"
+              src="images/good.png"
               alt=""
               className=" mx-auto  floating"
               data-aos="zoom-in-up"
