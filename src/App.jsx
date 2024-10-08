@@ -53,8 +53,8 @@ function App() {
           <Contarct/>
         
           <Taxs />
-          <div className="w-full -mt-2 sm:-mt-44 ">
-            <img src="images/ice.png" alt="" className="w-full h-full" />
+          <div className="w-full -mt-20 sm:-mt-44 ">
+            <img src="images/ice.png" alt="" className="w-full h-full sm:h-[400px]" />
           </div>
         
           <div className="">
