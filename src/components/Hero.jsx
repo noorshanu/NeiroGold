@@ -13,7 +13,7 @@ function Hero() {
               <h1
                 data-aos="zoom-in-up"
                 data-aos-duration="1500"
-                className=" text-3xl sm:text-8xl  font-bold font-snow  txt-s text-white py-2"
+                className=" text-6xl sm:text-8xl  font-bold font-snow  txt-s text-black py-2 txt-s"
               >
                Gold Neiro
               </h1>
