@@ -35,7 +35,7 @@ function AboutUs() {
             data-aos="zoom-in-right"
             data-aos-duration="1500"
           >
-            <img src="/images/img4.jpeg" alt="" className="rounded-2xl  " />
+            <img src="/images/wood.png" alt="" className="rounded-2xl  " />
             <img
               src="images/dog-3.webp"
               alt=""
