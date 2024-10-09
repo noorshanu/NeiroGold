@@ -12,7 +12,7 @@ function Contarct() {
 
           <p className="font-snow txt-s text-black text-lg sm:text-3xl font-bold text-center"   data-aos="zoom-in-left"
           data-aos-duration="1500">
-           coming soon.....
+          HXC1C3nFmG5bqASwDFY4mZ7nTEwnmC3JJmLCahNidyxD
           </p>
           <div className="flex justify-center mt-4"   data-aos="zoom-in-up"
           data-aos-duration="1500">
