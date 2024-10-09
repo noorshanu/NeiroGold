@@ -102,7 +102,7 @@ function Hero() {
            
 
                 <a
-                  href="https://t.me/" target="_blank" rel="noreferrer"
+                  href="https://t.me/GoldNeiro_sol" target="_blank" rel="noreferrer"
                   className=" mx-auto bg-[#ffffff] p-4 rounded-full "
                 >
                   {" "}
@@ -111,7 +111,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="https://x.com/" target="_blank" rel="noreferrer"
+                  href="https://x.com/goldneiro_sol" target="_blank" rel="noreferrer"
                   className=" mx-auto bg-[#ffffff] p-4 rounded-full "
                 >
                   {" "}
