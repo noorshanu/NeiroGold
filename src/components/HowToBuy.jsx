@@ -32,7 +32,7 @@ function HowToBuy() {
             </div>
 
             <div className=" w-full">
-              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-white">
+              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-[#4169E1]">
                 CHOOSE A CRYPTO-CURRENCY EXCHANGE:
               </h2>
 
@@ -56,7 +56,7 @@ function HowToBuy() {
             </div>
 
             <div className=" w-full">
-              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-white">
+              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-[#4169E1]">
               SEND YOUR SOLANA TO A WALLET
               </h2>
 
@@ -76,7 +76,7 @@ function HowToBuy() {
             </div>
 
             <div className=" w-full">
-              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-white">
+              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-[#4169E1]">
               TRANSFER SOLANA
               </h2>
 
@@ -87,7 +87,7 @@ function HowToBuy() {
           </div>
         </div>
 
-        <div className="border-4 border-[#4169E1] bg-[#4169E1] rounded-xl p-2 backdrop-blur-sm box-s2 mx-auto max-w-full sm:max-w-[900px] my-4">
+        <div className="border-4   border-[#5f0310] bg-[#e80b34] rounded-xl p-2 backdrop-blur-sm box-s2 mx-auto max-w-full sm:max-w-[900px] my-4">
           <div className=" flex flex-col sm:flex-row items-center gap-4 ">
             <div className=" mr-4 w-[300px]">
               <h2 className=" font-bold text-4 text-sad text-4xl py-2 text-black font-snow text-center">
@@ -96,7 +96,7 @@ function HowToBuy() {
             </div>
 
             <div className="w-full">
-              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-white">
+              <h2 className=" font-bold font-snow text-3xl py-2 txt-s text-[#4169E1]">
               BUY Gold Neiro
               </h2>
 
